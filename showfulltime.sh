@@ -33,3 +33,6 @@ sleep 1
 echo "««««««««TODAY IS $(date)»»»»»»«"
 
 echo "«««««COMPLETED»»»»»"
+
+
+
